@@ -41,11 +41,11 @@ git clone https://github.com/T-I-W-O/guessing-game-hub.git
 2.Open the project folder
 3.Open index.html in your browser
 
-# 📌 Status
+# **📌 Status**
 Simple frontend project demonstrating JavaScript logic and UI interaction
 
-# 🚀 Future Improvements
-- **Add sound effects**
-- **Add score tracking**
-- **Add more word categories**
-- **Improve animations**
+# **🚀 Future Improvements**
+- Add sound effects
+- Add score tracking
+- Add more word categories
+- Improve animations
