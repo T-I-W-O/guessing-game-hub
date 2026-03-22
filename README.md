@@ -18,7 +18,7 @@ A modern guessing game web application built with **HTML, CSS, and JavaScript**.
 
 ## 📸 Screenshots
 
-![Homepage](images/homepage.png)
+
 ![Number Game](images/number-game.png)
 ![Word Game](images/word-game.png)
 ![Game Result](images/game-result.png)
@@ -41,6 +41,7 @@ git clone https://github.com/T-I-W-O/guessing-game-hub.git
 2.Open the project folder
 3.Open index.html in your browser
 
+## 📌 Status
 ## 📌 Status
 Simple frontend project demonstrating JavaScript logic and UI interaction
 
