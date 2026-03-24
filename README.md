@@ -3,7 +3,7 @@
 A modern guessing game web application built with **HTML, CSS, and JavaScript**. It features two interactive game modes: a number guessing game and a word guessing game (hangman-style).
 
 ## 🚀 Live Demo
-[Click here to view](https://your-site-url.com)
+[Click here to view](https://guessgamess.netlify.app/)
 
 ## 🚀 Features
 
